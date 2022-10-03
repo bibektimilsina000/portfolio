@@ -9,7 +9,7 @@
     </div>
     <div class="container">
       <div>
-        <h1 class="text-5xl text-white mt-10">
+        <h1 class="text-5xl text-white mt-10 font-bold">
           BIBEK <label class="text-green">Timilsina</label>
         </h1>
       </div>
@@ -18,11 +18,11 @@
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam
           dolores provident ad rerum quia mollitia quas illo dicta, eos illum
         </p>
-        <div class="my-5">
-          <button class="text-green border-green border-2 py-2 px-4 rounded-lg">
+        <div class="my-5 md:space-x-10">
+          <button class="text-green border-green border-2 py-2 px-5 rounded-lg">
             Download cv
           </button>
-          <button class="bg-green text-white rounded-lg py-2 px-4 mx-5 my-5">
+          <button class="bg-green text-white rounded-lg py-2 px-7 my-5">
             contact me
           </button>
         </div>
