@@ -13,22 +13,16 @@
           BIBEK <label class="text-green">Timilsina</label>
         </h1>
       </div>
-      <div class="mt-10">
+      <div class="mt-10 text-white">
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam
           dolores provident ad rerum quia mollitia quas illo dicta, eos illum
-          aliquid cum iure iste est alias dolorum? Itaque ab reprehenderit
-          perferendis magnam cupiditate velit quisquam alias perspiciatis
-          tenetur quis fugiat ea incidunt, nulla ipsum ex pariatur eveniet.
-          Vitae, recusandae similique.
         </p>
-        <div class="space-x-24 my-5">
-          <button
-            class="text-green border-green border-2 py-2 px-4 rounded-full"
-          >
+        <div class="my-5">
+          <button class="text-green border-green border-2 py-2 px-4 rounded-lg">
             Download cv
           </button>
-          <button class="bg-green text-white rounded-full py-2 px-4">
+          <button class="bg-green text-white rounded-lg py-2 px-4 mx-5 my-5">
             contact me
           </button>
         </div>
